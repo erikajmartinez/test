@@ -11,4 +11,5 @@ package factura;
 public interface Constantes {
    final double VALOR_MINIMO=0;
    final double VALOR_MAXIMO=100000;
+   final double VALO=1;
 }
